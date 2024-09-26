@@ -1,0 +1,2 @@
+/Users/egorkirichenko/Projects/C++/online-chat/build/CMakeFiles/edit_cache.dir
+/Users/egorkirichenko/Projects/C++/online-chat/build/CMakeFiles/rebuild_cache.dir

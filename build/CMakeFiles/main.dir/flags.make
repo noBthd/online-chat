@@ -4,7 +4,7 @@
 # compile CXX with /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++
 CXX_DEFINES = -DSFML_STATIC
 
-CXX_INCLUDES = -I/Users/egorkirichenko/Projects/C++/online-chat/include -isystem /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include
+CXX_INCLUDES = -isystem /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include
 
 CXX_FLAGSarm64 = -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk
 

@@ -937,5 +937,4 @@ CMakeFiles/main.dir/src/main.cpp.o: \
   /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Network/Packet.hpp \
   /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Network/SocketSelector.hpp \
   /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Network/TcpListener.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Network/UdpSocket.hpp \
-  /Users/egorkirichenko/Projects/C++/online-chat/include/NetworkHandler.hpp
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Network/UdpSocket.hpp

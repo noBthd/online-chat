@@ -83,14 +83,62 @@ CMakeFiles/main.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/main.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/egorkirichenko/Projects/C++/online-chat/src/main.cpp -o CMakeFiles/main.dir/src/main.cpp.s
 
+CMakeFiles/main.dir/src/client.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/src/client.cpp.o: /Users/egorkirichenko/Projects/C++/online-chat/src/client.cpp
+CMakeFiles/main.dir/src/client.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/egorkirichenko/Projects/C++/online-chat/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/main.dir/src/client.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/client.cpp.o -MF CMakeFiles/main.dir/src/client.cpp.o.d -o CMakeFiles/main.dir/src/client.cpp.o -c /Users/egorkirichenko/Projects/C++/online-chat/src/client.cpp
+
+CMakeFiles/main.dir/src/client.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/src/client.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/egorkirichenko/Projects/C++/online-chat/src/client.cpp > CMakeFiles/main.dir/src/client.cpp.i
+
+CMakeFiles/main.dir/src/client.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/client.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/egorkirichenko/Projects/C++/online-chat/src/client.cpp -o CMakeFiles/main.dir/src/client.cpp.s
+
+CMakeFiles/main.dir/src/server.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/src/server.cpp.o: /Users/egorkirichenko/Projects/C++/online-chat/src/server.cpp
+CMakeFiles/main.dir/src/server.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/egorkirichenko/Projects/C++/online-chat/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/main.dir/src/server.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/server.cpp.o -MF CMakeFiles/main.dir/src/server.cpp.o.d -o CMakeFiles/main.dir/src/server.cpp.o -c /Users/egorkirichenko/Projects/C++/online-chat/src/server.cpp
+
+CMakeFiles/main.dir/src/server.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/src/server.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/egorkirichenko/Projects/C++/online-chat/src/server.cpp > CMakeFiles/main.dir/src/server.cpp.i
+
+CMakeFiles/main.dir/src/server.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/server.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/egorkirichenko/Projects/C++/online-chat/src/server.cpp -o CMakeFiles/main.dir/src/server.cpp.s
+
+CMakeFiles/main.dir/src/NetworkHandler.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/src/NetworkHandler.cpp.o: /Users/egorkirichenko/Projects/C++/online-chat/src/NetworkHandler.cpp
+CMakeFiles/main.dir/src/NetworkHandler.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/egorkirichenko/Projects/C++/online-chat/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/main.dir/src/NetworkHandler.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/NetworkHandler.cpp.o -MF CMakeFiles/main.dir/src/NetworkHandler.cpp.o.d -o CMakeFiles/main.dir/src/NetworkHandler.cpp.o -c /Users/egorkirichenko/Projects/C++/online-chat/src/NetworkHandler.cpp
+
+CMakeFiles/main.dir/src/NetworkHandler.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/src/NetworkHandler.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/egorkirichenko/Projects/C++/online-chat/src/NetworkHandler.cpp > CMakeFiles/main.dir/src/NetworkHandler.cpp.i
+
+CMakeFiles/main.dir/src/NetworkHandler.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/NetworkHandler.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/egorkirichenko/Projects/C++/online-chat/src/NetworkHandler.cpp -o CMakeFiles/main.dir/src/NetworkHandler.cpp.s
+
 # Object files for target main
 main_OBJECTS = \
-"CMakeFiles/main.dir/src/main.cpp.o"
+"CMakeFiles/main.dir/src/main.cpp.o" \
+"CMakeFiles/main.dir/src/client.cpp.o" \
+"CMakeFiles/main.dir/src/server.cpp.o" \
+"CMakeFiles/main.dir/src/NetworkHandler.cpp.o"
 
 # External object files for target main
 main_EXTERNAL_OBJECTS =
 
 main: CMakeFiles/main.dir/src/main.cpp.o
+main: CMakeFiles/main.dir/src/client.cpp.o
+main: CMakeFiles/main.dir/src/server.cpp.o
+main: CMakeFiles/main.dir/src/NetworkHandler.cpp.o
 main: CMakeFiles/main.dir/build.make
 main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/debug/lib/libsfml-graphics-s-d.a
 main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/debug/lib/libsfml-window-s-d.a
@@ -110,7 +158,7 @@ main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/lib/libbrotlidec.a
 main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/lib/libbrotlicommon.a
 main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/debug/lib/libsfml-system-s-d.a
 main: CMakeFiles/main.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/egorkirichenko/Projects/C++/online-chat/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/egorkirichenko/Projects/C++/online-chat/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable main"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/main.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

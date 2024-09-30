@@ -8,7 +8,10 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/Users/egorkirichenko/Projects/C++/online-chat/src/NetworkHandler.cpp" "CMakeFiles/main.dir/src/NetworkHandler.cpp.o" "gcc" "CMakeFiles/main.dir/src/NetworkHandler.cpp.o.d"
+  "/Users/egorkirichenko/Projects/C++/online-chat/src/client.cpp" "CMakeFiles/main.dir/src/client.cpp.o" "gcc" "CMakeFiles/main.dir/src/client.cpp.o.d"
   "/Users/egorkirichenko/Projects/C++/online-chat/src/main.cpp" "CMakeFiles/main.dir/src/main.cpp.o" "gcc" "CMakeFiles/main.dir/src/main.cpp.o.d"
+  "/Users/egorkirichenko/Projects/C++/online-chat/src/server.cpp" "CMakeFiles/main.dir/src/server.cpp.o" "gcc" "CMakeFiles/main.dir/src/server.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

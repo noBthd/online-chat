@@ -95,6 +95,7 @@ main: CMakeFiles/main.dir/build.make
 main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/debug/lib/libsfml-graphics-s-d.a
 main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/debug/lib/libsfml-window-s-d.a
 main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/debug/lib/libsfml-system-s-d.a
+main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/debug/lib/libsfml-network-s-d.a
 main: /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks/OpenGL.framework
 main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/debug/lib/libfreetyped.a
 main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/debug/lib/libbz2d.a
@@ -107,6 +108,7 @@ main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/lib/libpng16.a
 main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/lib/libz.a
 main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/lib/libbrotlidec.a
 main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/lib/libbrotlicommon.a
+main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/debug/lib/libsfml-system-s-d.a
 main: CMakeFiles/main.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/egorkirichenko/Projects/C++/online-chat/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable main"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/main.dir/link.txt --verbose=$(VERBOSE)

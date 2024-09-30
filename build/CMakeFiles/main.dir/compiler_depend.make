@@ -289,12 +289,28 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/to_chars_integral.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/to_chars_result.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/traits.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/calendar.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/concepts.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/convert_to_timespec.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/convert_to_tm.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/day.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/duration.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/file_clock.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/hh_mm_ss.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/high_resolution_clock.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/literals.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/month.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/month_weekday.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/monthday.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/statically_widen.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/steady_clock.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/system_clock.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/time_point.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/weekday.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/year.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/year_month.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/year_month_day.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/year_month_weekday.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__compare/common_comparison_category.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__compare/compare_partial_order_fallback.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__compare/compare_strong_order_fallback.h \
@@ -509,8 +525,11 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__system_error/error_code.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__system_error/error_condition.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__system_error/system_error.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__thread/formatter.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__thread/id.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__thread/poll_with_backoff.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__thread/this_thread.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__thread/thread.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__threading_support \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__tree \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__tuple/make_tuple_types.h \
@@ -691,6 +710,7 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/bitset \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/cctype \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/cerrno \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/chrono \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/climits \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/clocale \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/cmath \
@@ -728,6 +748,7 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/optional \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/ostream \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/ratio \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/sstream \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/stdexcept \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/stdint.h \
@@ -738,6 +759,7 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/string.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/string_view \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/system_error \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/thread \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/tuple \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/type_traits \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/typeinfo \
@@ -881,37 +903,18 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/stdint.h \
   /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Config.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/BlendMode.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/CircleShape.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Color.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/ConvexShape.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Drawable.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Export.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Font.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Glsl.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Glsl.inl \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Glyph.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Image.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/PrimitiveType.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Rect.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Rect.inl \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/RectangleShape.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/RenderStates.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/RenderTarget.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/RenderTexture.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/RenderWindow.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Shader.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Shape.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Sprite.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Text.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Texture.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Transform.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Transformable.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Vertex.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/VertexArray.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/VertexBuffer.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/View.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Network.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Network/Export.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Network/Ftp.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Network/Http.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Network/IpAddress.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Network/Packet.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Network/Socket.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Network/SocketHandle.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Network/SocketSelector.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Network/TcpListener.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Network/TcpSocket.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Network/UdpSocket.hpp \
   /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/System.hpp \
   /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/System/Clock.hpp \
   /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/System/Err.hpp \
@@ -936,53 +939,8 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
   /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/System/Vector2.hpp \
   /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/System/Vector2.inl \
   /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/System/Vector3.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/System/Vector3.inl \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/Clipboard.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/Context.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/ContextSettings.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/Cursor.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/Event.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/Export.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/GlResource.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/Joystick.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/Keyboard.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/Mouse.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/Sensor.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/Touch.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/VideoMode.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/Vulkan.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/Window.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/WindowBase.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/WindowHandle.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/WindowStyle.hpp
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/System/Vector3.inl
 
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/WindowBase.hpp:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/Window.hpp:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/Vulkan.hpp:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/VideoMode.hpp:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/Touch.hpp:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/Mouse.hpp:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/Keyboard.hpp:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/GlResource.hpp:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/Cursor.hpp:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/ContextSettings.hpp:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/Context.hpp:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/Clipboard.hpp:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window.hpp:
 
 /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/System/Vector3.hpp:
 
@@ -1012,45 +970,15 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/System.hpp:
 
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/View.hpp:
+/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Network/SocketHandle.hpp:
 
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/VertexBuffer.hpp:
+/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Network/Socket.hpp:
 
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Transformable.hpp:
+/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Network/Packet.hpp:
 
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Transform.hpp:
+/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Network/IpAddress.hpp:
 
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Text.hpp:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Shader.hpp:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/RenderWindow.hpp:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/RenderTexture.hpp:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/RenderTarget.hpp:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/RenderStates.hpp:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Rect.inl:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Rect.hpp:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Image.hpp:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Glsl.inl:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Glsl.hpp:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Font.hpp:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Export.hpp:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/ConvexShape.hpp:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics.hpp:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Glyph.hpp:
+/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Network/Http.hpp:
 
 /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Config.hpp:
 
@@ -1102,8 +1030,6 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_types/_ssize_t.h:
 
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/CircleShape.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_types/_size_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_types/_sigaltstack.h:
@@ -1111,8 +1037,6 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_types/_rune_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_types/_rsize_t.h:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/WindowHandle.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_types/_null.h:
 
@@ -1158,19 +1082,19 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_types/_errno_t.h:
 
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/System/Err.hpp:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_stable_partition.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_types/_ct_rune_t.h:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/VertexArray.hpp:
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_types/_clock_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_types/_caddr_t.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__mbstate_t.h:
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_types/_blksize_t.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_symbol_aliasing.h:
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_types.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_pthread/_pthread_types.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_pthread/_pthread_t.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_pthread/_pthread_rwlockattr_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_pthread/_pthread_rwlock_t.h:
 
@@ -1178,21 +1102,17 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_pthread/_pthread_mutexattr_t.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/pthread/pthread_impl.h:
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_types/_ucontext.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_pthread/_pthread_key_t.h:
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_pthread/_pthread_mutex_t.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_pthread/_pthread_condattr_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_pthread/_pthread_attr_t.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/partial_sort.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_posix_availability.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_endian.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/pstl_count.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/strings.h:
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/string.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/stdio.h:
 
@@ -1206,15 +1126,13 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/malloc/_ptrcheck.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/machine/types.h:
+/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Network/SocketSelector.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_set_symmetric_difference.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/mach/machine/_structs.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/mach/arm/_structs.h:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/Export.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/libkern/arm/OSByteOrder.h:
 
@@ -1239,8 +1157,6 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/stdexcept:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/ratio:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Drawable.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/system_error:
 
@@ -1290,6 +1206,8 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/cmath:
 
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/chrono:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/binary_search.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_literal_type.h:
@@ -1322,9 +1240,9 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__utility/terminate_on_exception.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__utility/priority_tag.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__utility/is_pointer_in_range.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/sstream:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__utility/exchange.h:
 
@@ -1348,8 +1266,6 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/remove_volatile.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_pthread/_pthread_rwlockattr_t.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/make_projected.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/remove_extent.h:
@@ -1357,10 +1273,6 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/remove_cvref.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/remove_const.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/add_lvalue_reference.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/remove_all_extents.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__system_error/error_condition.h:
 
@@ -1417,6 +1329,8 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/set_intersection.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_trivially_copyable.h:
+
+/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Network/TcpListener.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__utility/to_underlying.h:
 
@@ -1496,19 +1410,11 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_enum.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_types/_fsblkcnt_t.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_destructible.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_is_permutation.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_copy_constructible.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_convertible.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_types/_wchar_t.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_constant_evaluated.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/three_way_comp_ref_type.h:
 
@@ -1548,6 +1454,8 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/extent.h:
 
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/month_weekday.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_unsigned.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/in_in_result.h:
@@ -1576,7 +1484,9 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/add_rvalue_reference.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_types.h:
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/remove_all_extents.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/add_lvalue_reference.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/add_const.h:
 
@@ -1596,19 +1506,21 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__tuple/tuple_indices.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/string.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__tuple/pair_like.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/malloc/_malloc.h:
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__thread/this_thread.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_volatile.h:
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_types/_wchar_t.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__system_error/system_error.h:
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_constant_evaluated.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__thread/formatter.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__string/extern_template_lists.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__split_buffer:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/day.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_null_pointer.h:
 
@@ -1638,6 +1550,8 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_types/_pid_t.h:
 
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/file_clock.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__ranges/concepts.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__random/uniform_random_bit_generator.h:
@@ -1662,8 +1576,6 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__mutex/tag_types.h:
 
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/RectangleShape.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__mutex/lock_guard.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__memory_resource/polymorphic_allocator.h:
@@ -1675,6 +1587,8 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__bit/byteswap.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__memory/uses_allocator_construction.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/literals.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__memory/uses_allocator.h:
 
@@ -1695,6 +1609,8 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__ios/fpos.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__memory/raw_storage_iterator.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__thread/thread.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__memory/ranges_construct_at.h:
 
@@ -1719,6 +1635,10 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/xlocale/_string.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__memory/addressof.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_symbol_aliasing.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__mbstate_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__system_error/error_code.h:
 
@@ -1778,9 +1698,7 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__iterator/iter_swap.h:
 
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/System/Lock.hpp:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__iterator/iter_move.h:
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/concepts.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sched.h:
 
@@ -1795,14 +1713,6 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/search_n.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__iterator/indirectly_comparable.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_types/_clock_t.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_same.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_bool.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__iterator/incrementable_traits.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__memory/swap_allocator.h:
 
@@ -1838,6 +1748,8 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__iterator/access.h:
 
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/month.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__iterator/istream_iterator.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/nth_element.h:
@@ -1854,25 +1766,33 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__fwd/subrange.h:
 
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/max.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/errno.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__fwd/string_view.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__atomic/atomic_base.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__fwd/string.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__fwd/streambuf.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_nothrow_assignable.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_any_of.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/replace_copy_if.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__fwd/sstream.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__fwd/ostream.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/xlocale.h:
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__iterator/istreambuf_iterator.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__fwd/ios.h:
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__fwd/memory_resource.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__fwd/istream.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/disjunction.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__fwd/hash.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/streambuf:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__fwd/array.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__functional/reference_wrapper.h:
 
@@ -1903,10 +1823,6 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_swap_ranges.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__functional/function.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__atomic/atomic_base.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__fwd/string.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__system_error/errc.h:
 
@@ -1968,6 +1884,8 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__exception/exception.h:
 
+/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Network/UdpSocket.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/find_if.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__debug_utils/strict_weak_ordering_check.h:
@@ -2004,31 +1922,17 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/math.h:
 
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/BlendMode.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/prev_permutation.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__atomic/cxx_atomic_impl.h:
 
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/convert_to_tm.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__concepts/assignable.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_types/_blksize_t.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_types/_va_list.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_set_intersection.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_callable.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/remove.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__concepts/arithmetic.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_max_element.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__compare/three_way_comparable.h:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/Joystick.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__utility/piecewise_construct.h:
 
@@ -2044,17 +1948,59 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__compare/compare_three_way.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_pthread/_pthread_types.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__compare/compare_strong_order_fallback.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__compare/common_comparison_category.h:
 
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/arm/types.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/year_month_day.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/in_out_out_result.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/year_month.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_types/_va_list.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_set_intersection.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_callable.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/remove.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__concepts/arithmetic.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_trivially_move_constructible.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_trivially_default_constructible.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/strings.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/pstl_count.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/year.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_is_heap_until.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/weekday.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/steady_clock.h:
+
+/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/System/Lock.hpp:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__iterator/iter_move.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/monthday.h:
 
 /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/stddef.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/high_resolution_clock.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_same.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_bool.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__iterator/incrementable_traits.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__atomic/atomic_sync.h:
 
@@ -2077,6 +2023,8 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_types/_u_int64_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__memory/concepts.h:
+
+/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Network/Export.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/to_chars_base_10.h:
 
@@ -2106,13 +2054,9 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__bit/countl.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/arm/arch.h:
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/xlocale.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_is_partitioned.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__iterator/move_iterator.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_minmax_element.h:
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__fwd/ios.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__concepts/equality_comparable.h:
 
@@ -2146,13 +2090,17 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__bit/bit_ceil.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_pthread/_pthread_condattr_t.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__bit/bit_cast.h:
+
+/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Network.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/bitset:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__availability:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_parse_context.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/thread:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__atomic/kill_dependency.h:
 
@@ -2170,13 +2118,13 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__atomic/aliases.h:
 
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/hh_mm_ss.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/add_pointer.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__atomic/contention_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__utility/exception_guard.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_parse_context.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/unwrap_range.h:
 
@@ -2200,8 +2148,6 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/stable_partition.h:
 
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/Sensor.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/sort_heap.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/sort.h:
@@ -2215,12 +2161,6 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/shuffle.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/shift_left.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/pstl_frontend_dispatch.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/type_list.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/includes.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/aligned_storage.h:
 
@@ -2243,6 +2183,14 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/pstl_backends/cpu_backends/fill.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/lexicographical_compare_three_way.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__fwd/sstream.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_nothrow_assignable.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_any_of.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/replace_copy_if.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/replace.h:
 
@@ -2268,6 +2216,12 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__concepts/destructible.h:
 
+/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/System/Err.hpp:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_types/_ct_rune_t.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_stable_partition.h:
+
 /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/stdarg.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_set_union.h:
@@ -2282,17 +2236,7 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_set_difference.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__iterator/istreambuf_iterator.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__fwd/memory_resource.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_search_n.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_execution_policy.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_make_heap.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_pthread/_pthread_cond_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__compare/ordering.h:
 
@@ -2313,8 +2257,6 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/cstdio:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_integral.h:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Sprite.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_reverse_copy.h:
 
@@ -2346,8 +2288,6 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_error.h:
 
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/PrimitiveType.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/string.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_none_of.h:
@@ -2362,6 +2302,14 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_move.h:
 
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/arm/arch.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_is_partitioned.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__iterator/move_iterator.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_minmax_element.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_referenceable.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__memory/allocator_arg_t.h:
@@ -2369,8 +2317,6 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__locale_dir/locale_base_api/bsd_locale_defaults.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__condition_variable/condition_variable.h:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Texture.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__random/uniform_int_distribution.h:
 
@@ -2382,21 +2328,25 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_minmax.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_pthread/_pthread_t.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/max.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/errno.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__fwd/string_view.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_scalar.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_partial_sort_copy.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_min_element.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__fwd/istream.h:
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_pthread/_pthread_cond_t.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_execution_policy.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_make_heap.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/malloc/_malloc.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_volatile.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__system_error/system_error.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/year_month_weekday.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/comp.h:
 
@@ -2428,6 +2378,8 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_equal_range.h:
 
+/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Network/Ftp.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_count_if.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__concepts/relation.h:
@@ -2451,8 +2403,6 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/upper_bound.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_output.h:
-
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Vertex.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__tuple/make_tuple_types.h:
 
@@ -2478,8 +2428,6 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_adjacent_find.h:
 
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/Event.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__atomic/is_always_lock_free.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/mutex:
@@ -2504,13 +2452,7 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/pstl_generate.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_is_heap_until.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/pstl_for_each.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_trivially_move_constructible.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_trivially_default_constructible.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/mismatch.h:
 
@@ -2560,10 +2502,6 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__bit/bit_floor.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_types/_ucontext.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_pthread/_pthread_mutex_t.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_reference.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/_stdio.h:
@@ -2608,13 +2546,17 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__system_error/error_category.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/_types/_uint16_t.h:
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_posix_availability.h:
 
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Window/WindowStyle.hpp:
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/partial_sort.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/_types/_uint16_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__concepts/swappable.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__functional/bind_front.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__utility/priority_tag.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/is_partitioned.h:
 
@@ -2624,17 +2566,17 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/minmax_element.h:
 
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_pthread/_pthread_key_t.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/pthread/pthread_impl.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/_wctype.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__fwd/array.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/streambuf:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/min_element.h:
 
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Color.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__functional/not_fn.h:
+
+/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Network/TcpSocket.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/stddef.h:
 
@@ -2659,6 +2601,12 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/lexicographical_compare.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_remove.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/pstl_frontend_dispatch.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/type_list.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/includes.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/result_of.h:
 
@@ -2711,8 +2659,6 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/xlocale/_stdlib.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/in_out_result.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/in_out_out_result.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/remove_const_ref.h:
 
@@ -2772,8 +2718,6 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/max_element.h:
 
-/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/Graphics/Shape.hpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_prev_permutation.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_nothrow_destructible.h:
@@ -2794,6 +2738,12 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/copy_move_common.h:
 
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_types/_fsblkcnt_t.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_destructible.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/calendar.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/_types/_uint8_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/count_if.h:
@@ -2809,8 +2759,6 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/width_estimation_table.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_generate_n.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/arm/types.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_types/_seek_set.h:
 
@@ -2865,5 +2813,9 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/cstdint:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/_types/_nl_item.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/machine/types.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/statically_widen.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/TargetConditionals.h:

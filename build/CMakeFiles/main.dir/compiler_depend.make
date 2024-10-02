@@ -939,11 +939,8 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/egorkirichenko/Projects/C++/online-ch
   /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/System/Vector2.hpp \
   /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/System/Vector2.inl \
   /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/System/Vector3.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/System/Vector3.inl \
-  /Users/egorkirichenko/Projects/C++/online-chat/include/NetworkHandler.hpp
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/System/Vector3.inl
 
-
-/Users/egorkirichenko/Projects/C++/online-chat/include/NetworkHandler.hpp:
 
 /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/SFML/System/Vector3.hpp:
 

@@ -1,4 +1,3 @@
-#include <list>
 #include <thread>
 #include <string>
 #include <atomic>
@@ -11,118 +10,44 @@ void startClient(sf::TcpSocket& socket);
 void reciveMessage(sf::TcpSocket& socket, sf::Packet& packet, std::atomic<bool>& isRunning);
 void sendMessage(std::string& msg, std::string& name, sf::Packet& packet, sf::TcpSocket& socket);
 
-class Client {
-    private:
-
-    protected:
-
-    public:
-        sf::IpAddress clientIp = sf::IpAddress::getLocalAddress();
-
-        int clientId;
-        std::string name;
-
-        void print() {
-            std::cout << clientIp << "\n";
-            std::cout << clientId << "\n";
-            std::cout << name     << "\n";
-            
-            std::cout.flush();
-        }
-};
-
-class Chat {
-    private:
-
-    protected:
-
-    public:
-        sf::TcpSocket chatSocket;
-        sf::Packet chatPacket;
-
-        int chatId;
-        std::string chatName;
-
-        std::list<Client> clients = {};
-
-        bool addClient(Client client) {
-            clients.push_back(client);
-            return true;
-        }
-
-        void info() {
-            std::cout << chatId             << "\n";
-            std::cout << chatName           << "\n";
-            std::cout << clients.max_size() << "\n"
-
-        }
-
-};
-
-class Server {
-    Chat chats = {};
-};
-
 int main() {
-    // sf::IpAddress ip = sf::IpAddress::getLocalAddress();
-    // sf::TcpSocket socket;
-    // sf::Packet packet;
+    sf::IpAddress ip = sf::IpAddress::getLocalAddress();
+    sf::TcpSocket socket;
+    sf::Packet packet;
 
-    // char type;
-    // std::cout << "[s] - server\n[c] - client\n";
-    // std::cin >> type;
+    char type;
+    std::cout << "[s] - server\n[c] - client\n";
+    std::cin >> type;
 
-    // if(type == 's') {
-    //     startServer(socket);
-    // } 
-    // else if (type == 'c') {
-    //     startClient(socket);
-    // }
+    if(type == 's') {
+        startServer(socket);
+    } 
+    else if (type == 'c') {
+        startClient(socket);
+    }
 
-    // std::string name;
-    // std::cout << "Enter your name: ";
-    // std::cin >> name;
+    std::string name;
+    std::cout << "Enter your name: ";
+    std::cin >> name;
 
-    // socket.setBlocking(false);
+    socket.setBlocking(false);
 
-    // std::atomic<bool> isRunning(true);
+    std::atomic<bool> isRunning(true);
 
-    // std::thread t1(reciveMessage, std::ref(socket), std::ref(packet), std::ref(isRunning));
+    std::thread t1(reciveMessage, std::ref(socket), std::ref(packet), std::ref(isRunning));
 
-    // std::string msg = "";
-    // while (isRunning) {
-    //     std::cout << "msg: ";
-    //     std::cin >> msg;
+    std::string msg = "";
+    while (isRunning) {
+        std::cout << "msg: ";
+        std::cin >> msg;
 
-    //     if(msg == "/exit") 
-    //         break;
+        if(msg == "/exit") 
+            break;
 
-    //     sendMessage(msg, name, packet, socket);
-    // }
+        sendMessage(msg, name, packet, socket);
+    }
 
-    // t1.join();
-
-    Client client1 = {};
-    Client client2{};
-
-    Chat chat1{};
-
-    chat1.addClient(client1);
-    chat1.addClient(client2);
-
-    int size = 2;
-
-    Client mas[size];
-
-    mas[0] = chat1.clients.back();
-    chat1.clients.pop_back();
-    mas[1] = chat1.clients.back();
-
-    Client x = mas[0];
-    Client y = mas[1];
-
-    x.print();
-    y.print();
+    t1.join();
 
     return 0;
 }

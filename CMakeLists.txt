@@ -5,10 +5,9 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 set(CMAKE_TOOLCHAIN_FILE "/Users/egorkirichenko/.vcpkg/vcpkg/scripts/buildsystems/vcpkg.cmake")
+set(CMAKE_PREFIX_PATH "/Users/egorkirichenko/.vcpkg/vcpkg/installed/x64-osx")
 
 find_package(SFML CONFIG REQUIRED COMPONENTS graphics window system network)
-
-# include_directories(/Users/egorkirichenko/Projects/C++/online-chat/include)
 
 add_executable(main 
     src/main.cpp

@@ -101,13 +101,11 @@ main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/debug/lib/libfreety
 main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/debug/lib/libbz2d.a
 main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/debug/lib/libpng16d.a
 main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/debug/lib/libz.a
+main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/debug/lib/libbz2d.a
+main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/debug/lib/libpng16d.a
+main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/debug/lib/libz.a
 main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/debug/lib/libbrotlidec.a
 main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/debug/lib/libbrotlicommon.a
-main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/lib/libbz2.a
-main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/lib/libpng16.a
-main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/lib/libz.a
-main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/lib/libbrotlidec.a
-main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/lib/libbrotlicommon.a
 main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/debug/lib/libsfml-system-s-d.a
 main: CMakeFiles/main.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/egorkirichenko/Projects/C++/online-chat/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable main"

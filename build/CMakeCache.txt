@@ -41,9 +41,8 @@ CMAKE_ADDR2LINE:FILEPATH=CMAKE_ADDR2LINE-NOTFOUND
 //Path to a program.
 CMAKE_AR:FILEPATH=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar
 
-//Choose the type of build, options are: None Debug Release RelWithDebInfo
-// MinSizeRel ...
-CMAKE_BUILD_TYPE:STRING=
+//No help, variable specified on the command line.
+CMAKE_BUILD_TYPE:STRING=Debug
 
 //Enable/Disable color output during build.
 CMAKE_COLOR_MAKEFILE:BOOL=ON
@@ -102,8 +101,8 @@ CMAKE_EXE_LINKER_FLAGS_RELEASE:STRING=
 //Flags used by the linker during RELWITHDEBINFO builds.
 CMAKE_EXE_LINKER_FLAGS_RELWITHDEBINFO:STRING=
 
-//Enable/Disable output of compile commands during generation.
-CMAKE_EXPORT_COMPILE_COMMANDS:BOOL=
+//No help, variable specified on the command line.
+CMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE
 
 //Value Computed by CMake.
 CMAKE_FIND_PACKAGE_REDIRECTS_DIR:STATIC=/Users/egorkirichenko/Projects/C++/online-chat/build/CMakeFiles/pkgRedirects
@@ -228,8 +227,8 @@ CMAKE_STRIP:FILEPATH=/Applications/Xcode.app/Contents/Developer/Toolchains/Xcode
 //Path to a program.
 CMAKE_TAPI:FILEPATH=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/tapi
 
-//No help, variable specified on the command line.
-CMAKE_TOOLCHAIN_FILE:UNINITIALIZED=/Users/egorkirichenko/.vcpkg/vcpkg/scripts/buildsystems/vcpkg.cmake
+//The CMake toolchain file
+CMAKE_TOOLCHAIN_FILE:FILEPATH=/Users/egorkirichenko/.vcpkg/vcpkg/scripts/buildsystems/vcpkg.cmake
 
 //If this value is on, makefiles will be generated without the
 // .SILENT directive, and all commands will be echoed to the console
@@ -494,13 +493,13 @@ CMAKE_UNAME:INTERNAL=/usr/bin/uname
 //ADVANCED property for variable: CMAKE_VERBOSE_MAKEFILE
 CMAKE_VERBOSE_MAKEFILE-ADVANCED:INTERNAL=1
 //Details about finding BZip2
-FIND_PACKAGE_MESSAGE_DETAILS_BZip2:INTERNAL=[/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/lib/libbz2.a][/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include][v1.0.8()]
+FIND_PACKAGE_MESSAGE_DETAILS_BZip2:INTERNAL=[optimized;/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/lib/libbz2.a;debug;/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/debug/lib/libbz2d.a][/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include][v1.0.8()]
 //Details about finding OpenGL
 FIND_PACKAGE_MESSAGE_DETAILS_OpenGL:INTERNAL=[/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks/OpenGL.framework][/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks/OpenGL.framework][c ][v()]
 //Details about finding PNG
-FIND_PACKAGE_MESSAGE_DETAILS_PNG:INTERNAL=[/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/lib/libpng16.a][/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include][v1.6.43()]
+FIND_PACKAGE_MESSAGE_DETAILS_PNG:INTERNAL=[optimized;/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/lib/libpng16.a;debug;/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/debug/lib/libpng16d.a][/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include][v1.6.43()]
 //Details about finding ZLIB
-FIND_PACKAGE_MESSAGE_DETAILS_ZLIB:INTERNAL=[/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/lib/libz.a][/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include][c ][v1.3.1()]
+FIND_PACKAGE_MESSAGE_DETAILS_ZLIB:INTERNAL=[optimized;/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/lib/libz.a;debug;/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/debug/lib/libz.a][/Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include][c ][v1.3.1()]
 //ADVANCED property for variable: FREETYPE_LIBRARY_DEBUG
 FREETYPE_LIBRARY_DEBUG-ADVANCED:INTERNAL=1
 //vcpkg

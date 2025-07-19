@@ -22,13 +22,13 @@ int main() {
     if(type == 's') {
         startServer(socket);
     } 
-    else if (type == 'c') {
+    else if(type == 'c') {
         startClient(socket);
     }
 
     std::string name;
     std::cout << "Enter your name: ";
-    std::cin >> name;
+    std::cin  >> name;
 
     socket.setBlocking(false);
 
@@ -39,7 +39,7 @@ int main() {
     std::string msg = "";
     while (isRunning) {
         std::cout << "msg: ";
-        std::cin >> msg;
+        std::cin  >> msg;
 
         if(msg == "/exit") 
             break;
